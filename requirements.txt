@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+sentence-transformers
+Pillow
+numpy
+pandas
+scikit-learn
+nltk
+regex
